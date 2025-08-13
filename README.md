@@ -1,7 +1,5 @@
 <div align="center">
-    <div style="background-color: #f5f7fa; width:fit-content;">
-        <img src="docs/repodive-logo.png" alt="RepoDive, a codebase analysis platform" height=100></img>
-    </div>
+    <img src="docs/repodive-logo_bg.png" alt="RepoDive, a codebase analysis platform" height=100></img>
 </div>
 
 
